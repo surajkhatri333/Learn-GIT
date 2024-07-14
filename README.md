@@ -1,3 +1,3 @@
 # Learn-GIT
 This is our first repository
-We are lerning GIT & GITHUB.
+We are lerning GIT .
